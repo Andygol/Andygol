@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andygol
+- 👋 Hi, I’m Andrii Holovin
 - 👀 I’m interested in [OpenStreetMap](https://osm.org/), free libre opensource software 
 - 🌱 I’m currently learning howto 3D-print, scratch things with laser engraving and etc - <https://www.youtube.com/c/AndreyGolovin>
 - 💞️ I’m looking to collaborate on developing OSM community in Ukraine
