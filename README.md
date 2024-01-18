@@ -29,7 +29,7 @@
 
 ### Connect with me 📬
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=andrii-holovin-b58201122)](https://www.linkedin.com/in/andrii-holovin-b58201122/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=andygol)](https://www.linkedin.com/in/andygol/)
 [![OSM](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white&label=Andygol)](https://www.openstreetmap.org/user/andygol)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=@andreygolovin)](https://www.youtube.com/c/AndreyGolovin)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Andygol)](https://github.com/Andygol)
