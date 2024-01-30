@@ -29,13 +29,13 @@
 
 ### Connect with me 📬
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=andygol)](https://www.linkedin.com/in/andygol/)
-[![OSM](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white&label=Andygol)](https://www.openstreetmap.org/user/andygol)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=@AndriiHolovin)](https://www.youtube.com/@AndriiHolovin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Andygol)](https://github.com/Andygol)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&label=Andygol)](https://gitlab.com/Andygol)
-[![BlueSky](https://img.shields.io/badge/BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=0285FF&label=andygol.bsky.social)](https://bsky.app/profile/andygol.bsky.social/)
-[![X](https://img.shields.io/badge/x-black?style=for-the-badge&label=%40andygol_&logo=x)](https://x.com/andygol_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/andygol/)
+[![OSM](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white&label=)](https://www.openstreetmap.org/user/andygol)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=)](https://www.youtube.com/@AndriiHolovin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=)](https://github.com/Andygol)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&label=)](https://gitlab.com/Andygol)
+[![BlueSky](https://img.shields.io/badge/BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&label=)](https://bsky.app/profile/andygol.bsky.social/)
+[![X](https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&label=)](https://x.com/andygol_)
 
 <!-- ### Languages and Tools 🛠️
 
