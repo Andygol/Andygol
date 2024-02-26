@@ -37,6 +37,7 @@
 [![BlueSky](https://img.shields.io/badge/BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&label=)](https://bsky.app/profile/andygol.bsky.social/)
 [![X](https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&label=)](https://x.com/andygol_)
 
+<a href="https://www.buymeacoffee.com/andygol" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" ></a>
 <!-- ### Languages and Tools 🛠️
 
 ![YAML Badge](https://img.shields.io/badge/-YAML-CB171E?style=for-the-badge&labelColor=black&logo=yaml&logoColor=)
@@ -66,8 +67,6 @@
 ![confluence](https://img.shields.io/badge/-confluence-172B4D?style=for-the-badge&labelColor=black&logo=confluence&logoColor=)
 ![slack](https://img.shields.io/badge/-slack-4A154B?style=for-the-badge&labelColor=black&logo=slack&logoColor=) -->
 
-<!---
-Andrii-Holovin/Andrii-Holovin is a ✨ special ✨ repository because its]
 <!---
 Andygol/Andygol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
