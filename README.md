@@ -2,8 +2,10 @@
 
 ### I'm Open Source Software devotee from Ukraine 🇺🇦
 
-- ☸️ I am happy to present the Ukrainian localization of the Kubernetes documentation — https://andygol-k8s.netlify.app/uk/docs/setup/
-- 🔭 I’m currently working on Ukrainian localization for [k8s Documentation](https://github.com/Andygol/k8s-website/tree/main-uk-wip), [BlueSky](https://github.com/bluesky-social/social-app) and [Deck Blue](https://github.com/deckblue/l10n) , and a lot of other [stuff](https://github.com/Andygol?tab=repositories)
+- ☸️ I am happy to present the Ukrainian localization of
+  - the Kubernetes documentation — https://andygol-k8s.netlify.app/uk/docs/setup/ as well as
+  - Helm documentation — https://andygol-helm.netlify.app/uk/
+- 🔭 I’m currently working on Ukrainian localization for [BlueSky](https://github.com/bluesky-social/social-app) and [Deck Blue](https://github.com/deckblue/l10n) , and a lot of other [stuff](https://github.com/Andygol?tab=repositories)
 - 🌱 I'm currently expanding my knowledge in various DevOps-related topics
 - 👯 I’m looking to collaborate on [developing OSM community in Ukraine](https://openstreetmap.com.ua/)
 - 🤝 I’m looking for help with [encouraging maintainers to switch the Switch2OSM website from Jekyll to MkDocs](https://github.com/switch2osm/switch2osm/pull/248)
