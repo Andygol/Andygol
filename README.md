@@ -3,8 +3,11 @@
 ### I'm Open Source Software devotee from Ukraine 🇺🇦
 
 - ☸️ I am happy to present the Ukrainian localization of
-  - the Kubernetes documentation — https://andygol-k8s.netlify.app/uk/docs/setup/ as well as
-  - Helm documentation — https://andygol-helm.netlify.app/uk/
+  - the **Kubernetes** documentation — https://andygol-k8s.netlify.app/uk/docs/setup/ as well as
+  - **Helm** documentation — https://andygol-helm.netlify.app/uk/, https://helm.sh/uk/
+  - **Istio** documentation — https://istio.io/uk/
+  - **OpenTelemetry** documentation — https://andygol-otel.netlify.app/uk/
+  - **Etcd** documentation — https://andygol-etcd.netlify.app/uk/
 - 🔭 I’m currently working on Ukrainian localization for [BlueSky](https://github.com/bluesky-social/social-app) and [Deck Blue](https://github.com/deckblue/l10n) , and a lot of other [stuff](https://github.com/Andygol?tab=repositories)
 - 🌱 I'm currently expanding my knowledge in various DevOps-related topics
 - 👯 I’m looking to collaborate on [developing OSM community in Ukraine](https://openstreetmap.com.ua/)
