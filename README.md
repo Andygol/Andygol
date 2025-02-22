@@ -10,7 +10,7 @@
   - **Etcd** documentation — https://andygol-etcd.netlify.app/uk/
 - 🔭 I’m currently working on Ukrainian localization for [BlueSky](https://github.com/bluesky-social/social-app) and [Deck Blue](https://github.com/deckblue/l10n) , and a lot of other [stuff](https://github.com/Andygol?tab=repositories)
 - 🌱 I'm currently expanding my knowledge in various DevOps-related topics
-- 👯 I’m looking to collaborate on [developing OSM community in Ukraine](https://openstreetmap.com.ua/)
+- 👯 I’m looking to collaborate on [developing OSM community in Ukraine](https://openstreetmap.org.ua/)
 - 🤝 I’m looking for help with [encouraging maintainers to switch the Switch2OSM website from Jekyll to MkDocs](https://github.com/switch2osm/switch2osm/pull/248)
 - 🗂️ You can read my CV here [https://andygol.co.ua/cv.html](https://andygol.co.ua/cv.html)
 - 📝 Check out my blog [https://blog.andygol.co.ua/](https://blog.andygol.co.ua/)
