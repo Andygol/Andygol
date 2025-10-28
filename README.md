@@ -11,11 +11,11 @@
 - 🔭 I’m currently working on Ukrainian localization for [BlueSky](https://github.com/bluesky-social/social-app) and [Deck Blue](https://github.com/deckblue/l10n) , and a lot of other [stuff](https://github.com/Andygol?tab=repositories)
 - 🌱 I'm currently expanding my knowledge in various DevOps-related topics
 - 👯 I’m looking to collaborate on [developing OSM community in Ukraine](https://openstreetmap.org.ua/)
-- 🤝 I’m looking for help with [encouraging maintainers to switch the Switch2OSM website from Jekyll to MkDocs](https://github.com/switch2osm/switch2osm/pull/248)
-- 🗂️ You can read my CV here [https://andygol.co.ua/cv.html](https://andygol.co.ua/cv.html)
+- ✅ [Switch2OSM website was moved from Jekyll to MkDocs](https://github.com/switch2osm/switch2osm/pull/248#issuecomment-3162735958) as well as [OpenStreetMap Welcome Mat](https://github.com/osmfoundation/welcome-mat/issues/8#issuecomment-3157000090)
+- 🗂️ You can read my CV here [https://andygol.co.ua/cv.html](https://andygol.co.ua/cv.html) 
 - 📝 Check out my blog [https://blog.andygol.co.ua/](https://blog.andygol.co.ua/)
 - 💬 Ask me about **Product and Project Management, DevOps, OpenStreetMap, Application localization, Banking, Finance, Data Analysis, Data Visualization, Dashboards, GIS, Navigation, Geocoding, Map Data Processing, Documentation**
-- 📫 Drop me a line posting an issue <https://github.com/Andygol/communication/issues/new>
+- 📫 Drop me a line posting an issue <https://github.com/Andygol/communication/issues/new> or [#Connect with me](https://github.com/Andygol#connect-with-me-)
 - 📄 Know more about my experiences <https://andygol.co.ua/>
 
 ### My GitHub stats 👁️‍🗨️
@@ -33,7 +33,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andygol&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
-### Connect with me 📬
+### Connect with me 📬 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/andygol/)
 [![OSM](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white&label=)](https://www.openstreetmap.org/user/andygol)
