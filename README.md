@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on Ukrainian localization for [BlueSky](https://github.com/bluesky-social/social-app) and [Deck Blue](https://github.com/deckblue/l10n) , and a lot of other [stuff](https://github.com/Andygol?tab=repositories)
 - 🌱 I'm currently expanding my knowledge in various DevOps-related topics
 - 👯 I’m looking to collaborate on [developing OSM community in Ukraine](https://openstreetmap.org.ua/)
-- ✅ [Switch2OSM website was moved from Jekyll to MkDocs](https://github.com/switch2osm/switch2osm/pull/248#issuecomment-3162735958) as well as [OpenStreetMap Welcome Mat](https://github.com/osmfoundation/welcome-mat/issues/8#issuecomment-3157000090)
 - 🗂️ You can read my CV here [https://andygol.co.ua/cv.html](https://andygol.co.ua/cv.html) 
 - 📝 Check out my blog [https://blog.andygol.co.ua/](https://blog.andygol.co.ua/)
 - 💬 Ask me about **Product and Project Management, DevOps, OpenStreetMap, Application localization, Banking, Finance, Data Analysis, Data Visualization, Dashboards, GIS, Navigation, Geocoding, Map Data Processing, Documentation**
